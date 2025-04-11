@@ -12,9 +12,10 @@ Este é um projeto desenvolvido por **Rennan Rentz**, com o objetivo de criar um
 
 ## 💻 Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript 
+- ``HTML``  
+- ``CSS``  
+- ``JAVASCRIPT``  
+
 
 ## 📂 Estrutura do Projeto
 
