@@ -12,9 +12,9 @@ Este é um projeto desenvolvido por **Rennan Rentz**, com o objetivo de criar um
 
 ## 💻 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript Puro (Vanilla JS)
+- HTML
+- CSS
+- JavaScript 
 
 ## 📂 Estrutura do Projeto
 
@@ -39,4 +39,4 @@ Este é um projeto desenvolvido por **Rennan Rentz**, com o objetivo de criar um
 4. O dia correspondente será colorido com a cor escolhida.
 
 
-![Preview do Projeto]("Captura de tela 2025-04-11 193907.png")
+![Preview do Projeto](img1.png)
